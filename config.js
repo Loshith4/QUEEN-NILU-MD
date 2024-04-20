@@ -55,7 +55,7 @@ global.PREFIX = '.' // Bot Prefix
 
 global.CAPTION = 'ʟᴏꜱʜɪᴛʜᴀ ᴢᴇʀ  © 2023' // Caption
 
-global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Alive Logo link 
+global.ALIVELOGO = 'https://telegra.ph/file/852b0f3a74015bb211d01.jpg' // Set Alive Logo link 
 
 global.ALIVE_MESSAGE = '' // Set Alive Message
 
